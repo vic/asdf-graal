@@ -7,7 +7,7 @@
 ## Install
 
 ```shell
-asdf plugin-add graalvm https://github.com/vic/asdf-graalvm.git
+asdf plugin-add graalvm https://github.com/asdf-community/asdf-graalvm.git
 ```
 
 ## Use
